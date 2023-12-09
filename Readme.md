@@ -1,1 +1,5 @@
-Caesar Cipher is an easy method to encrypt your message. Letter in a plain given text is changed to a letter that appears a certain number of positions farther down the alphabet. Decrypt key shows the number that how many times letters were shifted during encryption.
+Caesar Cipher is one of the oldest encryption technique. In that program you will be able to encrypt and decrypt text (only letters).
+
+Encryption/Decryption ---> with shift of your choice.
+
+Usage : Encrypt/Decrypt whole messages and words of your choice!!
